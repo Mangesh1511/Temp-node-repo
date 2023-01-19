@@ -1,0 +1,5 @@
+__filename - filename
+__dirname  - Path to current directory
+require - function name to use modules(CommonJs)
+module  - info about current module(file)
+process - info about env where process is being executed

@@ -1,0 +1,14 @@
+npm -global command,comes with node
+npm --version
+
+local dependencies - use it only in this particular subject
+npm i <packageName>
+
+global dependency -use it in any project
+npm install -g<packageName>
+
+
+package.json -->manifest files stores the important info about project/package
+manual approach -->
+create package.json in the root,create properties ,etc.
+npm init -y(set everything default)

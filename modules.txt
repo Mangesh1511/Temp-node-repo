@@ -1,0 +1,32 @@
+CommonJs- Every file is module(By default)
+Modules - Encapsulated Code (Only share minimum)
+
+Built in modules
+os - Operating system module
+It has functions like 
+userinfo() - gives userinfo
+uptime( )  - gives the uptime for the system
+type()     - os type
+release    - os release
+path - Path Module
+
+File System Modules(fs): 
+There are two types of the fs modules 
+Syncronous and aschyncronous module
+
+Synchronous Module:
+    In this module we can say that if any user performs the operation then the other user cannot perform 
+    that operation is completed and all  other operations related to it are completed.
+    Executes the code line by line
+    It is time consuming
+
+Asyncronous Module:
+     In this module nested call backs are present.
+     Here in this module if one of the task given by any user is completed then other can execute the task 
+     without completing the tasks of the other users.
+     It is better to serve the more number of users and it is time efficient.
+     It does not executes the code line by line.
+
+
+HTTP Module:
+
