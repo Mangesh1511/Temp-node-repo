@@ -29,4 +29,6 @@ Asyncronous Module:
 
 
 HTTP Module:
-
+Using create Server the server is local hosted and res,req are the two important parameters of 
+HTTP module req.url will take us to the requested url if present 
+Here One of the local port is used to serve here it is 5000

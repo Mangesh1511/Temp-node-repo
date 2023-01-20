@@ -12,3 +12,12 @@ package.json -->manifest files stores the important info about project/package
 manual approach -->
 create package.json in the root,create properties ,etc.
 npm init -y(set everything default)
+
+To install the dev dependencies
+npm i <packageName> -D
+
+
+for running some commads added in the script you can use:
+npm run <command-name>
+npm <command-name>
+

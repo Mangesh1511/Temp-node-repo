@@ -1,0 +1,5 @@
+Event Loops,Async Patterns,Event Emitters and streams 
+
+Javascript is Syncronous and Single Threaded
+
+Event driven programming is heavily used in node.js
