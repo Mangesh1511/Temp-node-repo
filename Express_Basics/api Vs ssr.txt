@@ -1,0 +1,3 @@
+API -JSON               SSR -Template
+Send data               Send Template
+RES.JSON()              RES.RENDER()
